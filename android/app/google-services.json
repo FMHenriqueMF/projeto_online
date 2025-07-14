@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536669714088",
+    "project_id": "extremaflutter",
+    "storage_bucket": "extremaflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536669714088:android:e36b7653be9bf7531ff49d",
+        "android_client_info": {
+          "package_name": "com.mycompany.extremalimpeza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFY8A6Obda8xZDSvzHLJsns1oCUHVvWWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
